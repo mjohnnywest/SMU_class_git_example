@@ -1,0 +1,1 @@
+# SMU_class_git_example
